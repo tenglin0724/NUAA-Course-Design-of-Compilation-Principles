@@ -1,0 +1,15 @@
+program        
+const 
+var 
+procedure 
+begin 
+end
+if 
+else 
+then 
+while 
+do 
+call 
+read 
+write 
+odd 
